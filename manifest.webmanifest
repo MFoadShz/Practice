@@ -1,0 +1,14 @@
+{
+  "name": "Powtórka · Hurra 1",
+  "short_name": "Powtórka",
+  "description": "Spaced retrieval practice for Hurra!!! po polsku 1, lessons 1 to 3",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#DFE6E1",
+  "theme_color": "#13201C",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
